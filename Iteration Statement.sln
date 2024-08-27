@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iteration Statement", "Iteration Statement\Iteration Statement.csproj", "{35C1490C-A456-4AEA-BB58-5FAB8FF128DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35C1490C-A456-4AEA-BB58-5FAB8FF128DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C1490C-A456-4AEA-BB58-5FAB8FF128DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C1490C-A456-4AEA-BB58-5FAB8FF128DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C1490C-A456-4AEA-BB58-5FAB8FF128DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ChristmasWithTypes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../MergeConflictExercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../MethodsExercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ModuleOneReview" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Operators-Exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PizzaAlgo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Selection-Statement-Exercise-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Selection-Statements-Exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Selection-Statements-Exercise1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Variables-Exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../practice" vcs="Git" />
+  </component>
+</project>
